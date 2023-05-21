@@ -1,2 +1,2 @@
-# cobalt
-Cobalt is a customizable sandbox for visualizing, labelling, and interacting with your local data.
+# corydoras
+Corydoras is a customizable sandbox for visualizing, labelling, and interacting with your local data.
