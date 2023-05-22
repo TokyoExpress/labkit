@@ -3,6 +3,6 @@ Labkit is a customizable sandbox for visualizing, labelling, and interacting wit
 
 ### Developer Roadmap
 
-- [] Initial prototype using Streamlit
-- [] Determine core features
-- [] Migrate to propietary infrastructure
+- [ ] Initial prototype using Streamlit
+- [ ] Determine core features
+- [ ] Migrate to propietary infrastructure
